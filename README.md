@@ -16,7 +16,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 In this challenge:
 
-* Before beginning the analysis, I checked the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
+* Before beginning the analysis, I checked the data for any mouse ID with duplicate time points and removed any data associated with that mouse ID.
 
 * I used the cleaned data for the remaining steps.
 
