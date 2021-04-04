@@ -36,6 +36,7 @@ The cleaned data were used to do the following:
 * Then, plot the linear regression model on top of the previous scatter plot.
 <img width="460" alt="Screen Shot 2021-04-05 at 6 31 44 AM" src="https://user-images.githubusercontent.com/71471355/113508895-cb224180-950f-11eb-97b1-cd018e582970.png">
 
+#### Instruction
 
 * The notebook contains three observations or inferences that can be made from the data.
 
