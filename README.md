@@ -1,6 +1,6 @@
 # Pharmaceuticals: Comparison of Drug Performance
 
-The purpose of this project was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens, used on 249 mice identified with SCC tumor growth. 
+The purpose of this project was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens (Ketapril, Propriva, 	Stelasyn, Ceftamin, Infubinol, Naftisol, Ramicane, Placebo and Zoniferol), used on 249 mice identified with SCC tumor growth. 
 
 ![Laboratory](Images/Laboratory.jpg)
 
