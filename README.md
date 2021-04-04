@@ -11,7 +11,7 @@ The purpose of this project was to compare the performance of Pymaceuticals' dru
     - pandas
     - numpy
     - scipy.stats
-2. Jupyter Notebook
+2. Jupyter Notebook 
 
 The project requires to clean the data by checking for any mouse ID with duplicate time points in order to remove any data associated with that mouse ID.
 The cleaned data were used to do the following:
@@ -45,5 +45,5 @@ The cleaned data were used to do the following:
 #### File Description
 1.  Images folder contains the laboratory image used in the read me file.
 2.  Pymaceuticals folder contains the pymaceuticals_starter.ipynb file and data folder.
-3.  pymaceuticals_starter.ipynb file is a Jupyter notebook file containing the python codes that anslyse the data. 
+3.  pymaceuticals_starter.ipynb file is a Jupyter notebook file containing the python codes that analyse the data. 
 4.  Data folder contains mouse_metadata.csv and Study_results.csv files that are analysed in this project. 
