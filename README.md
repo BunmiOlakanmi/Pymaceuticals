@@ -37,9 +37,13 @@ The cleaned data were used to do the following:
 <img width="460" alt="Screen Shot 2021-04-05 at 6 31 44 AM" src="https://user-images.githubusercontent.com/71471355/113508895-cb224180-950f-11eb-97b1-cd018e582970.png">
 
 #### Instruction
+1.  To run this code, ensure that all the above libraries are installed in your environment.
+2.  Pull all the file and data from this GitHub repository.
+3.  To see the visualization and analyses, run the pymaceuticals_starter.ipynb file in Jupyter notebook.
+4.  The pymaceuticals_starter.ipynb notebook contains three observations or inferences that can be made from the data.
 
-* The notebook contains three observations or inferences that can be made from the data.
-
-* My plots include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
-
-
+#### File Description
+1.  Images folder contains the laboratory image used in the read me file.
+2.  Pymaceuticals folder contains the pymaceuticals_starter.ipynb file and data folder.
+3.  pymaceuticals_starter.ipynb file is a Jupyter notebook file containing the python codes that anslyse the data. 
+4.  Data folder contains mouse_metadata.csv and Study_results.csv files that are analysed in this project. 
